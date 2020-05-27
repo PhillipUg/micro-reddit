@@ -48,8 +48,6 @@ In this project, i build the data structures necessary to support link submissio
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-  * [Testing](#testing)
-* [Live Version](#live-version)
 * [Contact](#contact)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
@@ -64,7 +62,7 @@ In this project, i build the data structures necessary to support link submissio
 ## Installation
 
 To use application this is what you need to:
-* Have ruby installed in your computer
+* Have ruby and Rails installed on your computer
 * [Download](https://github.com/PhillipUg/micro-reddit/archive/master.zip) or clone this repo:
   - Clone with SSH:
   ```
